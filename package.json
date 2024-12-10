@@ -1,0 +1,26 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "this is my first node js file",
+  "main": "index.js",
+  "scripts": {
+    "test": "NA"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NA"
+  },
+  "keywords": [
+    "vkp"
+  ],
+  "author": "vivek_kumar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "git": "^0.1.5",
+    "loadash": "^1.0.0",
+    "mongoose": "^8.8.4",
+    "simple-git": "^3.27.0"
+  }
+}
